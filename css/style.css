@@ -46,14 +46,17 @@ h2{
     display:flex;
     justify-content: space-around;
 }
-.skill_html5{
+.skill_java{
     background-color:#e44d26;
 }
-.skill_css3{
+.skill_python{
     background-color:#1572b6;
 }
 .skill_javascript{
     background-color:#ebbc00;
+}
+.skill_php{
+    background-color:#23eb00;
 }
 .myskills ul li{
     width:90px;
@@ -90,4 +93,3 @@ h2{
     color:#ffffff;
     text-align:center;
 }
-
